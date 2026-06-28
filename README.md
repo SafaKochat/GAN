@@ -114,7 +114,9 @@ During training:
   - Visual comparison (real vs generated images)
   - Pixel-level correlation analysis
 
-Example output:<img width="490" height="487" alt="Capture d&#39;écran 2026-06-28 154204" src="https://github.com/user-attachments/assets/2ad5640e-dca3-46ed-938e-c3d1cb5d8905" /> <img width="488" height="478" alt="Capture d&#39;écran 2026-06-28 154145" src="https://github.com/user-attachments/assets/06797a6a-71f6-498b-a657-596b4c063563" />
+Example output:
+<img width="490" height="487" alt="Capture d&#39;écran 2026-06-28 154204" src="https://github.com/user-attachments/assets/2ad5640e-dca3-46ed-938e-c3d1cb5d8905" />
+<img width="488" height="478" alt="Capture d&#39;écran 2026-06-28 154145" src="https://github.com/user-attachments/assets/06797a6a-71f6-498b-a657-596b4c063563" />
 
 ---
 
